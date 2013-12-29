@@ -1,0 +1,8 @@
+{
+  "name": "SVG Icon Loader 2.0 packaged for Meteor",
+  "description": "A smart package for Meteor that adds the svgicons jquery plugin.  Original Author: Alexis Deveria (http://a.deveria.com)",
+  "homepage": "todo",
+  "author": "Nick Rafter",
+  "version": "2.0",
+  "git": "todo"
+}
